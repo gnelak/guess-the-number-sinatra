@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One|Average);
+
+html {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  height: 100%;
+  background-image: url("img/dark-bg1.jpg");
+  font-family: "Average", serif;
+  font-size: 22px;
+}
+
+h1 {
+  color: green;
+  font-family: "Fjalla One", sans-serif;
+}
+
+body {
+  color: white;
+}
+
+.title {
+  font-size: 5em
+
+}
+
+.guess {
+  font-size: 2em;
+  display: block;
+  margin: 0 auto;
+
+
+}
+
+.btn {
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em 2em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+
+.trophy{
+  height: 200px;
+
+
+}
+
